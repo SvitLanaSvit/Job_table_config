@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrap{
+    max-width: 1200px;
+    margin: 20px auto;
+}
